@@ -29,7 +29,7 @@ The final product is an **interactive R Shiny dashboard** designed to support ex
 
 ---
 
-## Technologies Used
+## Software and Package Used
 - **R**, **Shiny**
 - **tidyverse** (`dplyr`, `tidyr`, `stringr`, `purrr`)
 - **tidytext**
