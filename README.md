@@ -37,7 +37,7 @@ The final product is an **interactive R Shiny dashboard** designed to support ex
 
 ---
 
-Programming Paradigms
+##  Programming Paradigms
 
 This project integrates multiple programming paradigms discussed in class:
 
