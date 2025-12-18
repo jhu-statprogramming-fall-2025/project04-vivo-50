@@ -20,7 +20,6 @@ The final product is an **interactive R Shiny dashboard** designed to support ex
 - Engagement analysis with normalized metrics (like rate and comment rate)  
 - Regression modeling to identify predictors of video popularity  
 - Interactive Shiny dashboard with dynamic filtering and visualizations  
-
 ---
 
 ## Data Sources
@@ -35,6 +34,19 @@ The final product is an **interactive R Shiny dashboard** designed to support ex
 - **tidytext**
 - **ggplot2**
 - **broom**
+
+---
+
+Programming Paradigms
+
+This project integrates multiple programming paradigms discussed in class:
+
+- **API-based data collection**: Data were programmatically retrieved from the YouTube Data API, requiring structured requests, pagination handling, and rate-limit considerations.
+- **Functional programming**: Data cleaning, sentiment scoring, and engagement metric calculations were implemented using reusable functions and tidyverse pipelines.
+- **Machine learning / statistical modeling**: Linear regression models were used to assess predictors of video popularity, and effect size visualizations were generated to support interpretation.
+- **Interactive programming**: An R Shiny dashboard was developed to allow dynamic filtering, visualization, and exploratory analysis by end users.
+
+Combining these paradigms allowed us to build a flexible, reproducible, and user-friendly data analytic product.
 
 ---
 
