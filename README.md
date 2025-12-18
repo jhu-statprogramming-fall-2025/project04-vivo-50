@@ -41,3 +41,4 @@ The final product is an **interactive R Shiny dashboard** designed to support ex
 ## Final Product
 
 The dashboard enables users to explore engagement patterns across healthcare topics, compare professional and influencer content, and examine statistical drivers of video popularity through an intuitive, interactive interface.
+Our final product is also deployed in https://flusightcategoricalprediction.shinyapps.io/healthcare_dashboard/
