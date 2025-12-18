@@ -49,7 +49,23 @@ This project integrates multiple programming paradigms discussed in class:
 Combining these paradigms allowed us to build a flexible, reproducible, and user-friendly data analytic product.
 
 ---
+## Shiny App Structure
 
+Introduction to the app: Overview of the project goals, data sources, and instructions for using the dashboard.
+
+Overview / Data summary: Summary tables presenting overall engagement metrics (views, likes, comments) across health topics and creator types.
+
+Engagement analysis: Interactive visualizations comparing like rates and comment rates by topic and creator category.
+
+Sentiment analysis: Analysis of sentiment derived from video titles and descriptions, including comparisons across topics and its relationship with view counts.
+
+Topic comparison: Visual comparison of average engagement across health education topics and professional versus influencer content.
+
+Video-level exploration: Interactive table displaying top-performing videos with filtering and sorting options.
+
+Drivers of views: Statistical modeling results identifying key predictors of video popularity, presented with coefficients and confidence intervals
+
+---
 ## Final Product
 
 The dashboard enables users to explore engagement patterns across healthcare topics, compare professional and influencer content, and examine statistical drivers of video popularity through an intuitive, interactive interface.
